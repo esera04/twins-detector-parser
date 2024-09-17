@@ -1,0 +1,1058 @@
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+	<define>
+		<position name="stl_tessellated_f0_v0" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f0_v1" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f0_v2" x="38.550754547119141" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f1_v0" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f1_v1" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f1_v2" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f2_v0" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f2_v1" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f2_v2" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f3_v0" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f3_v1" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f3_v2" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f4_v0" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f4_v1" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f4_v2" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f5_v0" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f5_v1" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f5_v2" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f6_v0" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f6_v1" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f6_v2" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f7_v0" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f7_v1" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f7_v2" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f8_v0" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f8_v1" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f8_v2" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f9_v0" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f9_v1" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f9_v2" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f10_v0" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f10_v1" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f10_v2" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f11_v0" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f11_v1" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f11_v2" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f12_v0" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f12_v1" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f12_v2" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f13_v0" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f13_v1" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f13_v2" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f14_v0" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f14_v1" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f14_v2" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f15_v0" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f15_v1" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f15_v2" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f16_v0" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f16_v1" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f16_v2" x="38.550754547119141" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f17_v0" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f17_v1" x="38.550754547119141" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f17_v2" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f18_v0" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f18_v1" x="38.550754547119141" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f18_v2" x="38.550754547119141" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f19_v0" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f19_v1" x="38.550754547119141" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f19_v2" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f20_v0" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f20_v1" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f20_v2" x="38.550754547119141" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f21_v0" x="38.550754547119141" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f21_v1" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f21_v2" x="38.550754547119141" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f22_v0" x="32.250755310058594" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f22_v1" x="32.250755310058594" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f22_v2" x="32.250755310058594" y="21.932279586791992" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f23_v0" x="32.250755310058594" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f23_v1" x="32.250755310058594" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f23_v2" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f24_v0" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f24_v1" x="32.250755310058594" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f24_v2" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f25_v0" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f25_v1" x="32.250755310058594" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f25_v2" x="32.250755310058594" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f26_v0" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f26_v1" x="32.250755310058594" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f26_v2" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f27_v0" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f27_v1" x="32.250755310058594" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f27_v2" x="32.250755310058594" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f28_v0" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f28_v1" x="32.250755310058594" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f28_v2" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f29_v0" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f29_v1" x="32.250755310058594" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f29_v2" x="32.250755310058594" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f30_v0" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f30_v1" x="32.250755310058594" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f30_v2" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f31_v0" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f31_v1" x="32.250755310058594" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f31_v2" x="32.250755310058594" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f32_v0" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f32_v1" x="32.250755310058594" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f32_v2" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f33_v0" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f33_v1" x="32.250755310058594" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f33_v2" x="32.250755310058594" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f34_v0" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f34_v1" x="32.250755310058594" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f34_v2" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f35_v0" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f35_v1" x="32.250755310058594" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f35_v2" x="32.250755310058594" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f36_v0" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f36_v1" x="32.250755310058594" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f36_v2" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f37_v0" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f37_v1" x="32.250755310058594" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f37_v2" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f38_v0" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f38_v1" x="32.250755310058594" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f38_v2" x="32.250755310058594" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f39_v0" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f39_v1" x="32.250755310058594" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f39_v2" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f40_v0" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f40_v1" x="32.250755310058594" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f40_v2" x="32.250755310058594" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f41_v0" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f41_v1" x="32.250755310058594" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f41_v2" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f42_v0" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f42_v1" x="32.250755310058594" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f42_v2" x="32.250755310058594" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f43_v0" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f43_v1" x="32.250755310058594" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f43_v2" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f44_v0" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f44_v1" x="32.250755310058594" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f44_v2" x="32.250755310058594" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f45_v0" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f45_v1" x="32.250755310058594" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f45_v2" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f46_v0" x="32.250755310058594" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f46_v1" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f46_v2" x="32.250755310058594" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f47_v0" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f47_v1" x="32.250755310058594" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f47_v2" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f48_v0" x="32.250755310058594" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f48_v1" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f48_v2" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f49_v0" x="32.250755310058594" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f49_v1" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f49_v2" x="32.250755310058594" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f50_v0" x="32.250755310058594" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f50_v1" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f50_v2" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f51_v0" x="32.250755310058594" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f51_v1" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f51_v2" x="32.250755310058594" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f52_v0" x="32.250755310058594" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f52_v1" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f52_v2" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f53_v0" x="32.250755310058594" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f53_v1" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f53_v2" x="32.250755310058594" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f54_v0" x="32.250755310058594" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f54_v1" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f54_v2" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f55_v0" x="32.250755310058594" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f55_v1" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f55_v2" x="32.250755310058594" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f56_v0" x="32.250755310058594" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f56_v1" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f56_v2" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f57_v0" x="32.250755310058594" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f57_v1" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f57_v2" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f58_v0" x="32.250755310058594" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f58_v1" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f58_v2" x="32.250755310058594" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f59_v0" x="32.250755310058594" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f59_v1" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f59_v2" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f60_v0" x="32.250755310058594" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f60_v1" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f60_v2" x="32.250755310058594" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f61_v0" x="32.250755310058594" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f61_v1" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f61_v2" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f62_v0" x="32.250755310058594" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f62_v1" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f62_v2" x="32.250755310058594" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f63_v0" x="32.250755310058594" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f63_v1" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f63_v2" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f64_v0" x="32.250755310058594" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f64_v1" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f64_v2" x="32.250755310058594" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f65_v0" x="32.250755310058594" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f65_v1" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f65_v2" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f66_v0" x="32.250755310058594" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f66_v1" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f66_v2" x="32.250755310058594" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f67_v0" x="32.250755310058594" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f67_v1" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f67_v2" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f68_v0" x="32.250755310058594" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f68_v1" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f68_v2" x="32.250755310058594" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f69_v0" x="32.250755310058594" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f69_v1" x="32.250755310058594" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f69_v2" x="32.250755310058594" y="25.832279205322266" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f70_v0" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f70_v1" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f70_v2" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f71_v0" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f71_v1" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f71_v2" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f72_v0" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f72_v1" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f72_v2" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f73_v0" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f73_v1" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f73_v2" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f74_v0" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f74_v1" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f74_v2" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f75_v0" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f75_v1" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f75_v2" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f76_v0" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f76_v1" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f76_v2" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f77_v0" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f77_v1" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f77_v2" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f78_v0" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f78_v1" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f78_v2" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f79_v0" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f79_v1" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f79_v2" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f80_v0" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f80_v1" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f80_v2" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f81_v0" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f81_v1" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f81_v2" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f82_v0" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f82_v1" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f82_v2" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f83_v0" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f83_v1" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f83_v2" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f84_v0" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f84_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f84_v2" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f85_v0" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f85_v1" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f85_v2" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f86_v0" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f86_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f86_v2" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f87_v0" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f87_v1" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f87_v2" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f88_v0" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f88_v1" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f88_v2" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f89_v0" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f89_v1" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f89_v2" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f90_v0" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f90_v1" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f90_v2" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f91_v0" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f91_v1" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f91_v2" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f92_v0" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f92_v1" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f92_v2" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f93_v0" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f93_v1" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f93_v2" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f94_v0" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f94_v1" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f94_v2" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f95_v0" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f95_v1" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f95_v2" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f96_v0" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f96_v1" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f96_v2" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f97_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f97_v1" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f97_v2" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f98_v0" x="30.650754928588867" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f98_v1" x="30.650754928588867" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f98_v2" x="30.650754928588867" y="21.932279586791992" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f99_v0" x="30.650754928588867" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f99_v1" x="30.650754928588867" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f99_v2" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f100_v0" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f100_v1" x="30.650754928588867" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f100_v2" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f101_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f101_v1" x="30.650754928588867" y="21.998723983764648" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f101_v2" x="30.650754928588867" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f102_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f102_v1" x="30.650754928588867" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f102_v2" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f103_v0" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f103_v1" x="30.650754928588867" y="22.193529129028320" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f103_v2" x="30.650754928588867" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f104_v0" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f104_v1" x="30.650754928588867" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f104_v2" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f105_v0" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f105_v1" x="30.650754928588867" y="22.503421783447266" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f105_v2" x="30.650754928588867" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f106_v0" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f106_v1" x="30.650754928588867" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f106_v2" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f107_v0" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f107_v1" x="30.650754928588867" y="22.907279968261719" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f107_v2" x="30.650754928588867" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f108_v0" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f108_v1" x="30.650754928588867" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f108_v2" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f109_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f109_v1" x="30.650754928588867" y="23.377582550048828" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f109_v2" x="30.650754928588867" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f110_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f110_v1" x="30.650754928588867" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f110_v2" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f111_v0" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f111_v1" x="30.650754928588867" y="23.882280349731445" z="18.647489547729492" unit="mm" />
+		<position name="stl_tessellated_f111_v2" x="30.650754928588867" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f112_v0" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f112_v1" x="30.650754928588867" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f112_v2" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f113_v0" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f113_v1" x="30.650754928588867" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f113_v2" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f114_v0" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f114_v1" x="30.650754928588867" y="24.386976242065430" z="18.581045150756836" unit="mm" />
+		<position name="stl_tessellated_f114_v2" x="30.650754928588867" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f115_v0" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f115_v1" x="30.650754928588867" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f115_v2" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f116_v0" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f116_v1" x="30.650754928588867" y="24.857278823852539" z="18.386240005493164" unit="mm" />
+		<position name="stl_tessellated_f116_v2" x="30.650754928588867" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f117_v0" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f117_v1" x="30.650754928588867" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f117_v2" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f118_v0" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f118_v1" x="30.650754928588867" y="25.261137008666992" z="18.076349258422852" unit="mm" />
+		<position name="stl_tessellated_f118_v2" x="30.650754928588867" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f119_v0" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f119_v1" x="30.650754928588867" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f119_v2" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f120_v0" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f120_v1" x="30.650754928588867" y="25.571029663085938" z="17.672491073608398" unit="mm" />
+		<position name="stl_tessellated_f120_v2" x="30.650754928588867" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f121_v0" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f121_v1" x="30.650754928588867" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f121_v2" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f122_v0" x="30.650754928588867" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f122_v1" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f122_v2" x="30.650754928588867" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f123_v0" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f123_v1" x="30.650754928588867" y="21.998723983764648" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f123_v2" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f124_v0" x="30.650754928588867" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f124_v1" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f124_v2" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f125_v0" x="30.650754928588867" y="22.193529129028320" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f125_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f125_v2" x="30.650754928588867" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f126_v0" x="30.650754928588867" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f126_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f126_v2" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f127_v0" x="30.650754928588867" y="22.503421783447266" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f127_v1" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f127_v2" x="30.650754928588867" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f128_v0" x="30.650754928588867" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f128_v1" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f128_v2" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f129_v0" x="30.650754928588867" y="22.907279968261719" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f129_v1" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f129_v2" x="30.650754928588867" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f130_v0" x="30.650754928588867" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f130_v1" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f130_v2" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f131_v0" x="30.650754928588867" y="23.377582550048828" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f131_v1" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f131_v2" x="30.650754928588867" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f132_v0" x="30.650754928588867" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f132_v1" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f132_v2" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f133_v0" x="30.650754928588867" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f133_v1" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f133_v2" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f134_v0" x="30.650754928588867" y="23.882280349731445" z="14.747489929199219" unit="mm" />
+		<position name="stl_tessellated_f134_v1" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f134_v2" x="30.650754928588867" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f135_v0" x="30.650754928588867" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f135_v1" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f135_v2" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f136_v0" x="30.650754928588867" y="24.386976242065430" z="14.813935279846191" unit="mm" />
+		<position name="stl_tessellated_f136_v1" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f136_v2" x="30.650754928588867" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f137_v0" x="30.650754928588867" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f137_v1" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f137_v2" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f138_v0" x="30.650754928588867" y="24.857278823852539" z="15.008740425109863" unit="mm" />
+		<position name="stl_tessellated_f138_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f138_v2" x="30.650754928588867" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f139_v0" x="30.650754928588867" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f139_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f139_v2" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f140_v0" x="30.650754928588867" y="25.261137008666992" z="15.318632125854492" unit="mm" />
+		<position name="stl_tessellated_f140_v1" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f140_v2" x="30.650754928588867" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f141_v0" x="30.650754928588867" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f141_v1" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f141_v2" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f142_v0" x="30.650754928588867" y="25.571029663085938" z="15.722490310668945" unit="mm" />
+		<position name="stl_tessellated_f142_v1" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f142_v2" x="30.650754928588867" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f143_v0" x="30.650754928588867" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f143_v1" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f143_v2" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f144_v0" x="30.650754928588867" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f144_v1" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f144_v2" x="30.650754928588867" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f145_v0" x="30.650754928588867" y="25.765834808349609" z="16.192792892456055" unit="mm" />
+		<position name="stl_tessellated_f145_v1" x="30.650754928588867" y="25.765834808349609" z="17.202186584472656" unit="mm" />
+		<position name="stl_tessellated_f145_v2" x="30.650754928588867" y="25.832279205322266" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f146_v0" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f146_v1" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f146_v2" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f147_v0" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f147_v1" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f147_v2" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f148_v0" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f148_v1" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f148_v2" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f149_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f149_v1" x="30.650754928588867" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f149_v2" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f150_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f150_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f150_v2" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f151_v0" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f151_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f151_v2" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f152_v0" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f152_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f152_v2" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f153_v0" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f153_v1" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f153_v2" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f154_v0" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f154_v1" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f154_v2" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f155_v0" x="30.650754928588867" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f155_v1" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f155_v2" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f156_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f156_v1" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f156_v2" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f157_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f157_v1" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f157_v2" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f158_v0" x="30.650754928588867" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f158_v1" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f158_v2" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f159_v0" x="30.650754928588867" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f159_v1" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f159_v2" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f160_v0" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f160_v1" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f160_v2" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f161_v0" x="30.650754928588867" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f161_v1" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f161_v2" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f162_v0" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f162_v1" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f162_v2" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f163_v0" x="30.650754928588867" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f163_v1" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f163_v2" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f164_v0" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f164_v1" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f164_v2" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f165_v0" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f165_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f165_v2" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f166_v0" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f166_v1" x="30.650754928588867" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f166_v2" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f167_v0" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f167_v1" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f167_v2" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f168_v0" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f168_v1" x="30.650754928588867" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f168_v2" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f169_v0" x="30.650754928588867" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f169_v1" x="30.650754928588867" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f169_v2" x="30.650754928588867" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f170_v0" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f170_v1" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f170_v2" x="32.250755310058594" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f171_v0" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f171_v1" x="38.550754547119141" y="23.882280349731445" z="18.572490692138672" unit="mm" />
+		<position name="stl_tessellated_f171_v2" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f172_v0" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f172_v1" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f172_v2" x="32.250755310058594" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f173_v0" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f173_v1" x="38.550754547119141" y="23.396993637084961" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f173_v2" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f174_v0" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f174_v1" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f174_v2" x="32.250755310058594" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f175_v0" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f175_v1" x="38.550754547119141" y="22.944780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f175_v2" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f176_v0" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f176_v1" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f176_v2" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f177_v0" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f177_v1" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f177_v2" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f178_v0" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f178_v1" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f178_v2" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f179_v0" x="38.550754547119141" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f179_v1" x="30.650754928588867" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f179_v2" x="32.250755310058594" y="22.556453704833984" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f180_v0" x="30.650754928588867" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f180_v1" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f180_v2" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f181_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f181_v1" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f181_v2" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f182_v0" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f182_v1" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f182_v2" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f183_v0" x="38.550754547119141" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f183_v1" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f183_v2" x="32.250755310058594" y="22.258481979370117" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f184_v0" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f184_v1" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f184_v2" x="30.650754928588867" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f185_v0" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f185_v1" x="30.650754928588867" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f185_v2" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f186_v0" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f186_v1" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f186_v2" x="38.550754547119141" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f187_v0" x="38.550754547119141" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f187_v1" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f187_v2" x="32.250755310058594" y="22.071168899536133" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f188_v0" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f188_v1" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f188_v2" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f189_v0" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f189_v1" x="32.250755310058594" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f189_v2" x="38.550754547119141" y="22.007280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f190_v0" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f190_v1" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f190_v2" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f191_v0" x="38.550754547119141" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f191_v1" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f191_v2" x="32.250755310058594" y="22.071168899536133" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f192_v0" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f192_v1" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f192_v2" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f193_v0" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f193_v1" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f193_v2" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f194_v0" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f194_v1" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f194_v2" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f195_v0" x="38.550754547119141" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f195_v1" x="30.650754928588867" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f195_v2" x="32.250755310058594" y="22.258481979370117" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f196_v0" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f196_v1" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f196_v2" x="30.650754928588867" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f197_v0" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f197_v1" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f197_v2" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f198_v0" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f198_v1" x="32.250755310058594" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f198_v2" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f199_v0" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f199_v1" x="38.550754547119141" y="22.556453704833984" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f199_v2" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f200_v0" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f200_v1" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f200_v2" x="30.650754928588867" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f201_v0" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f201_v1" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f201_v2" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f202_v0" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f202_v1" x="32.250755310058594" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f202_v2" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f203_v0" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f203_v1" x="38.550754547119141" y="22.944780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f203_v2" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f204_v0" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f204_v1" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f204_v2" x="30.650754928588867" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f205_v0" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f205_v1" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f205_v2" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f206_v0" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f206_v1" x="32.250755310058594" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f206_v2" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f207_v0" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f207_v1" x="38.550754547119141" y="23.396993637084961" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f207_v2" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f208_v0" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f208_v1" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f208_v2" x="30.650754928588867" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f209_v0" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f209_v1" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f209_v2" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f210_v0" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f210_v1" x="32.250755310058594" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f210_v2" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f211_v0" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f211_v1" x="38.550754547119141" y="23.882280349731445" z="14.822490692138672" unit="mm" />
+		<position name="stl_tessellated_f211_v2" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f212_v0" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f212_v1" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f212_v2" x="30.650754928588867" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f213_v0" x="30.650754928588867" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f213_v1" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f213_v2" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f214_v0" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f214_v1" x="32.250755310058594" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f214_v2" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f215_v0" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f215_v1" x="38.550754547119141" y="24.367565155029297" z="14.886379241943359" unit="mm" />
+		<position name="stl_tessellated_f215_v2" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f216_v0" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f216_v1" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f216_v2" x="32.250755310058594" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f217_v0" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f217_v1" x="38.550754547119141" y="24.819780349731445" z="15.073692321777344" unit="mm" />
+		<position name="stl_tessellated_f217_v2" x="38.550754547119141" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f218_v0" x="38.550754547119141" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f218_v1" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f218_v2" x="38.550754547119141" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f219_v0" x="32.250755310058594" y="25.208105087280273" z="15.371665000915527" unit="mm" />
+		<position name="stl_tessellated_f219_v1" x="38.550754547119141" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f219_v2" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f220_v0" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f220_v1" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f220_v2" x="38.550754547119141" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f221_v0" x="32.250755310058594" y="25.506076812744141" z="15.759990692138672" unit="mm" />
+		<position name="stl_tessellated_f221_v1" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f221_v2" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f222_v0" x="38.550754547119141" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f222_v1" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f222_v2" x="38.550754547119141" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f223_v0" x="32.250755310058594" y="25.693389892578125" z="16.212203979492188" unit="mm" />
+		<position name="stl_tessellated_f223_v1" x="38.550754547119141" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f223_v2" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f224_v0" x="38.550754547119141" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f224_v1" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f224_v2" x="38.550754547119141" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f225_v0" x="32.250755310058594" y="25.757280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f225_v1" x="38.550754547119141" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f225_v2" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f226_v0" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f226_v1" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f226_v2" x="38.550754547119141" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f227_v0" x="32.250755310058594" y="25.693389892578125" z="17.182775497436523" unit="mm" />
+		<position name="stl_tessellated_f227_v1" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f227_v2" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f228_v0" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f228_v1" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f228_v2" x="38.550754547119141" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f229_v0" x="32.250755310058594" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f229_v1" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f229_v2" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f230_v0" x="30.650754928588867" y="25.506076812744141" z="17.634990692138672" unit="mm" />
+		<position name="stl_tessellated_f230_v1" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f230_v2" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f231_v0" x="30.650754928588867" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f231_v1" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f231_v2" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f232_v0" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f232_v1" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f232_v2" x="32.250755310058594" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f233_v0" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f233_v1" x="38.550754547119141" y="25.208105087280273" z="18.023315429687500" unit="mm" />
+		<position name="stl_tessellated_f233_v2" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f234_v0" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f234_v1" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f234_v2" x="32.250755310058594" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f235_v0" x="32.250755310058594" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f235_v1" x="38.550754547119141" y="24.819780349731445" z="18.321287155151367" unit="mm" />
+		<position name="stl_tessellated_f235_v2" x="38.550754547119141" y="24.367565155029297" z="18.508602142333984" unit="mm" />
+		<position name="stl_tessellated_f236_v0" x="31.871755599975586" y="23.278575897216797" z="16.535728454589844" unit="mm" />
+		<position name="stl_tessellated_f236_v1" x="31.871755599975586" y="23.278575897216797" z="16.859252929687500" unit="mm" />
+		<position name="stl_tessellated_f236_v2" x="31.871755599975586" y="23.257280349731445" z="16.697490692138672" unit="mm" />
+		<position name="stl_tessellated_f237_v0" x="31.871755599975586" y="23.278575897216797" z="16.859252929687500" unit="mm" />
+		<position name="stl_tessellated_f237_v1" x="31.871755599975586" y="23.278575897216797" z="16.535728454589844" unit="mm" />
+		<position name="stl_tessellated_f237_v2" x="31.871755599975586" y="23.341012954711914" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f238_v0" x="31.871755599975586" y="23.278575897216797" z="16.859252929687500" unit="mm" />
+		<position name="stl_tessellated_f238_v1" x="31.871755599975586" y="23.341012954711914" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f238_v2" x="31.871755599975586" y="23.341012954711914" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f239_v0" x="31.871755599975586" y="23.341012954711914" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f239_v1" x="31.871755599975586" y="23.341012954711914" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f239_v2" x="31.871755599975586" y="23.440338134765625" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f240_v0" x="31.871755599975586" y="23.341012954711914" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f240_v1" x="31.871755599975586" y="23.440338134765625" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f240_v2" x="31.871755599975586" y="23.440338134765625" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f241_v0" x="31.871755599975586" y="23.440338134765625" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f241_v1" x="31.871755599975586" y="23.440338134765625" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f241_v2" x="31.871755599975586" y="23.569780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f242_v0" x="31.871755599975586" y="23.440338134765625" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f242_v1" x="31.871755599975586" y="23.569780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f242_v2" x="31.871755599975586" y="23.569780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f243_v0" x="31.871755599975586" y="23.569780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f243_v1" x="31.871755599975586" y="23.569780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f243_v2" x="31.871755599975586" y="23.720518112182617" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f244_v0" x="31.871755599975586" y="23.569780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f244_v1" x="31.871755599975586" y="23.720518112182617" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f244_v2" x="31.871755599975586" y="23.720518112182617" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f245_v0" x="31.871755599975586" y="23.720518112182617" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f245_v1" x="31.871755599975586" y="23.720518112182617" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f245_v2" x="31.871755599975586" y="23.882280349731445" z="16.072490692138672" unit="mm" />
+		<position name="stl_tessellated_f246_v0" x="31.871755599975586" y="23.720518112182617" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f246_v1" x="31.871755599975586" y="23.882280349731445" z="16.072490692138672" unit="mm" />
+		<position name="stl_tessellated_f246_v2" x="31.871755599975586" y="23.882280349731445" z="17.322490692138672" unit="mm" />
+		<position name="stl_tessellated_f247_v0" x="31.871755599975586" y="23.882280349731445" z="17.322490692138672" unit="mm" />
+		<position name="stl_tessellated_f247_v1" x="31.871755599975586" y="23.882280349731445" z="16.072490692138672" unit="mm" />
+		<position name="stl_tessellated_f247_v2" x="31.871755599975586" y="24.044040679931641" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f248_v0" x="31.871755599975586" y="23.882280349731445" z="17.322490692138672" unit="mm" />
+		<position name="stl_tessellated_f248_v1" x="31.871755599975586" y="24.044040679931641" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f248_v2" x="31.871755599975586" y="24.044040679931641" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f249_v0" x="31.871755599975586" y="24.044040679931641" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f249_v1" x="31.871755599975586" y="24.044040679931641" z="16.093786239624023" unit="mm" />
+		<position name="stl_tessellated_f249_v2" x="31.871755599975586" y="24.194780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f250_v0" x="31.871755599975586" y="24.044040679931641" z="17.301193237304688" unit="mm" />
+		<position name="stl_tessellated_f250_v1" x="31.871755599975586" y="24.194780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f250_v2" x="31.871755599975586" y="24.194780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f251_v0" x="31.871755599975586" y="24.194780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f251_v1" x="31.871755599975586" y="24.194780349731445" z="16.156225204467773" unit="mm" />
+		<position name="stl_tessellated_f251_v2" x="31.871755599975586" y="24.324220657348633" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f252_v0" x="31.871755599975586" y="24.194780349731445" z="17.238756179809570" unit="mm" />
+		<position name="stl_tessellated_f252_v1" x="31.871755599975586" y="24.324220657348633" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f252_v2" x="31.871755599975586" y="24.324220657348633" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f253_v0" x="31.871755599975586" y="24.324220657348633" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f253_v1" x="31.871755599975586" y="24.324220657348633" z="16.255548477172852" unit="mm" />
+		<position name="stl_tessellated_f253_v2" x="31.871755599975586" y="24.423545837402344" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f254_v0" x="31.871755599975586" y="24.324220657348633" z="17.139432907104492" unit="mm" />
+		<position name="stl_tessellated_f254_v1" x="31.871755599975586" y="24.423545837402344" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f254_v2" x="31.871755599975586" y="24.423545837402344" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f255_v0" x="31.871755599975586" y="24.423545837402344" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f255_v1" x="31.871755599975586" y="24.423545837402344" z="16.384990692138672" unit="mm" />
+		<position name="stl_tessellated_f255_v2" x="31.871755599975586" y="24.485982894897461" z="16.535728454589844" unit="mm" />
+		<position name="stl_tessellated_f256_v0" x="31.871755599975586" y="24.423545837402344" z="17.009990692138672" unit="mm" />
+		<position name="stl_tessellated_f256_v1" x="31.871755599975586" y="24.485982894897461" z="16.535728454589844" unit="mm" />
+		<position name="stl_tessellated_f256_v2" x="31.871755599975586" y="24.485982894897461" z="16.859252929687500" unit="mm" />
+		<position name="stl_tessellated_f257_v0" x="31.871755599975586" y="24.485982894897461" z="16.859252929687500" unit="mm" />
+		<position name="stl_tessellated_f257_v1" x="31.871755599975586" y="24.485982894897461" z="16.535728454589844" unit="mm" />
+		<position name="stl_tessellated_f257_v2" x="31.871755599975586" y="24.507280349731445" z="16.697490692138672" unit="mm" />
+	</define>
+	<materials><element name="ELM_G4_Cu" formula="Cu" Z="29"><atom value="63.546" /></element><material name="G4_Cu"><D value="8.96" unit="g/cm3" /><fraction n="1.0" ref="ELM_G4_Cu" /></material></materials>
+	<solids>
+		<tessellated name="stl_tessellated" materialref="G4_Cu">
+			<triangular vertex1="stl_tessellated_f0_v0" vertex2="stl_tessellated_f0_v1" vertex3="stl_tessellated_f0_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f1_v0" vertex2="stl_tessellated_f1_v1" vertex3="stl_tessellated_f1_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f2_v0" vertex2="stl_tessellated_f2_v1" vertex3="stl_tessellated_f2_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f3_v0" vertex2="stl_tessellated_f3_v1" vertex3="stl_tessellated_f3_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f4_v0" vertex2="stl_tessellated_f4_v1" vertex3="stl_tessellated_f4_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f5_v0" vertex2="stl_tessellated_f5_v1" vertex3="stl_tessellated_f5_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f6_v0" vertex2="stl_tessellated_f6_v1" vertex3="stl_tessellated_f6_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f7_v0" vertex2="stl_tessellated_f7_v1" vertex3="stl_tessellated_f7_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f8_v0" vertex2="stl_tessellated_f8_v1" vertex3="stl_tessellated_f8_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f9_v0" vertex2="stl_tessellated_f9_v1" vertex3="stl_tessellated_f9_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f10_v0" vertex2="stl_tessellated_f10_v1" vertex3="stl_tessellated_f10_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f11_v0" vertex2="stl_tessellated_f11_v1" vertex3="stl_tessellated_f11_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f12_v0" vertex2="stl_tessellated_f12_v1" vertex3="stl_tessellated_f12_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f13_v0" vertex2="stl_tessellated_f13_v1" vertex3="stl_tessellated_f13_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f14_v0" vertex2="stl_tessellated_f14_v1" vertex3="stl_tessellated_f14_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f15_v0" vertex2="stl_tessellated_f15_v1" vertex3="stl_tessellated_f15_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f16_v0" vertex2="stl_tessellated_f16_v1" vertex3="stl_tessellated_f16_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f17_v0" vertex2="stl_tessellated_f17_v1" vertex3="stl_tessellated_f17_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f18_v0" vertex2="stl_tessellated_f18_v1" vertex3="stl_tessellated_f18_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f19_v0" vertex2="stl_tessellated_f19_v1" vertex3="stl_tessellated_f19_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f20_v0" vertex2="stl_tessellated_f20_v1" vertex3="stl_tessellated_f20_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f21_v0" vertex2="stl_tessellated_f21_v1" vertex3="stl_tessellated_f21_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f22_v0" vertex2="stl_tessellated_f22_v1" vertex3="stl_tessellated_f22_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f23_v0" vertex2="stl_tessellated_f23_v1" vertex3="stl_tessellated_f23_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f24_v0" vertex2="stl_tessellated_f24_v1" vertex3="stl_tessellated_f24_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f25_v0" vertex2="stl_tessellated_f25_v1" vertex3="stl_tessellated_f25_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f26_v0" vertex2="stl_tessellated_f26_v1" vertex3="stl_tessellated_f26_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f27_v0" vertex2="stl_tessellated_f27_v1" vertex3="stl_tessellated_f27_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f28_v0" vertex2="stl_tessellated_f28_v1" vertex3="stl_tessellated_f28_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f29_v0" vertex2="stl_tessellated_f29_v1" vertex3="stl_tessellated_f29_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f30_v0" vertex2="stl_tessellated_f30_v1" vertex3="stl_tessellated_f30_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f31_v0" vertex2="stl_tessellated_f31_v1" vertex3="stl_tessellated_f31_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f32_v0" vertex2="stl_tessellated_f32_v1" vertex3="stl_tessellated_f32_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f33_v0" vertex2="stl_tessellated_f33_v1" vertex3="stl_tessellated_f33_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f34_v0" vertex2="stl_tessellated_f34_v1" vertex3="stl_tessellated_f34_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f35_v0" vertex2="stl_tessellated_f35_v1" vertex3="stl_tessellated_f35_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f36_v0" vertex2="stl_tessellated_f36_v1" vertex3="stl_tessellated_f36_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f37_v0" vertex2="stl_tessellated_f37_v1" vertex3="stl_tessellated_f37_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f38_v0" vertex2="stl_tessellated_f38_v1" vertex3="stl_tessellated_f38_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f39_v0" vertex2="stl_tessellated_f39_v1" vertex3="stl_tessellated_f39_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f40_v0" vertex2="stl_tessellated_f40_v1" vertex3="stl_tessellated_f40_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f41_v0" vertex2="stl_tessellated_f41_v1" vertex3="stl_tessellated_f41_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f42_v0" vertex2="stl_tessellated_f42_v1" vertex3="stl_tessellated_f42_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f43_v0" vertex2="stl_tessellated_f43_v1" vertex3="stl_tessellated_f43_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f44_v0" vertex2="stl_tessellated_f44_v1" vertex3="stl_tessellated_f44_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f45_v0" vertex2="stl_tessellated_f45_v1" vertex3="stl_tessellated_f45_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f46_v0" vertex2="stl_tessellated_f46_v1" vertex3="stl_tessellated_f46_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f47_v0" vertex2="stl_tessellated_f47_v1" vertex3="stl_tessellated_f47_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f48_v0" vertex2="stl_tessellated_f48_v1" vertex3="stl_tessellated_f48_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f49_v0" vertex2="stl_tessellated_f49_v1" vertex3="stl_tessellated_f49_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f50_v0" vertex2="stl_tessellated_f50_v1" vertex3="stl_tessellated_f50_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f51_v0" vertex2="stl_tessellated_f51_v1" vertex3="stl_tessellated_f51_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f52_v0" vertex2="stl_tessellated_f52_v1" vertex3="stl_tessellated_f52_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f53_v0" vertex2="stl_tessellated_f53_v1" vertex3="stl_tessellated_f53_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f54_v0" vertex2="stl_tessellated_f54_v1" vertex3="stl_tessellated_f54_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f55_v0" vertex2="stl_tessellated_f55_v1" vertex3="stl_tessellated_f55_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f56_v0" vertex2="stl_tessellated_f56_v1" vertex3="stl_tessellated_f56_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f57_v0" vertex2="stl_tessellated_f57_v1" vertex3="stl_tessellated_f57_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f58_v0" vertex2="stl_tessellated_f58_v1" vertex3="stl_tessellated_f58_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f59_v0" vertex2="stl_tessellated_f59_v1" vertex3="stl_tessellated_f59_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f60_v0" vertex2="stl_tessellated_f60_v1" vertex3="stl_tessellated_f60_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f61_v0" vertex2="stl_tessellated_f61_v1" vertex3="stl_tessellated_f61_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f62_v0" vertex2="stl_tessellated_f62_v1" vertex3="stl_tessellated_f62_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f63_v0" vertex2="stl_tessellated_f63_v1" vertex3="stl_tessellated_f63_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f64_v0" vertex2="stl_tessellated_f64_v1" vertex3="stl_tessellated_f64_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f65_v0" vertex2="stl_tessellated_f65_v1" vertex3="stl_tessellated_f65_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f66_v0" vertex2="stl_tessellated_f66_v1" vertex3="stl_tessellated_f66_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f67_v0" vertex2="stl_tessellated_f67_v1" vertex3="stl_tessellated_f67_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f68_v0" vertex2="stl_tessellated_f68_v1" vertex3="stl_tessellated_f68_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f69_v0" vertex2="stl_tessellated_f69_v1" vertex3="stl_tessellated_f69_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f70_v0" vertex2="stl_tessellated_f70_v1" vertex3="stl_tessellated_f70_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f71_v0" vertex2="stl_tessellated_f71_v1" vertex3="stl_tessellated_f71_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f72_v0" vertex2="stl_tessellated_f72_v1" vertex3="stl_tessellated_f72_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f73_v0" vertex2="stl_tessellated_f73_v1" vertex3="stl_tessellated_f73_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f74_v0" vertex2="stl_tessellated_f74_v1" vertex3="stl_tessellated_f74_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f75_v0" vertex2="stl_tessellated_f75_v1" vertex3="stl_tessellated_f75_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f76_v0" vertex2="stl_tessellated_f76_v1" vertex3="stl_tessellated_f76_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f77_v0" vertex2="stl_tessellated_f77_v1" vertex3="stl_tessellated_f77_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f78_v0" vertex2="stl_tessellated_f78_v1" vertex3="stl_tessellated_f78_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f79_v0" vertex2="stl_tessellated_f79_v1" vertex3="stl_tessellated_f79_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f80_v0" vertex2="stl_tessellated_f80_v1" vertex3="stl_tessellated_f80_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f81_v0" vertex2="stl_tessellated_f81_v1" vertex3="stl_tessellated_f81_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f82_v0" vertex2="stl_tessellated_f82_v1" vertex3="stl_tessellated_f82_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f83_v0" vertex2="stl_tessellated_f83_v1" vertex3="stl_tessellated_f83_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f84_v0" vertex2="stl_tessellated_f84_v1" vertex3="stl_tessellated_f84_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f85_v0" vertex2="stl_tessellated_f85_v1" vertex3="stl_tessellated_f85_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f86_v0" vertex2="stl_tessellated_f86_v1" vertex3="stl_tessellated_f86_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f87_v0" vertex2="stl_tessellated_f87_v1" vertex3="stl_tessellated_f87_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f88_v0" vertex2="stl_tessellated_f88_v1" vertex3="stl_tessellated_f88_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f89_v0" vertex2="stl_tessellated_f89_v1" vertex3="stl_tessellated_f89_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f90_v0" vertex2="stl_tessellated_f90_v1" vertex3="stl_tessellated_f90_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f91_v0" vertex2="stl_tessellated_f91_v1" vertex3="stl_tessellated_f91_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f92_v0" vertex2="stl_tessellated_f92_v1" vertex3="stl_tessellated_f92_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f93_v0" vertex2="stl_tessellated_f93_v1" vertex3="stl_tessellated_f93_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f94_v0" vertex2="stl_tessellated_f94_v1" vertex3="stl_tessellated_f94_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f95_v0" vertex2="stl_tessellated_f95_v1" vertex3="stl_tessellated_f95_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f96_v0" vertex2="stl_tessellated_f96_v1" vertex3="stl_tessellated_f96_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f97_v0" vertex2="stl_tessellated_f97_v1" vertex3="stl_tessellated_f97_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f98_v0" vertex2="stl_tessellated_f98_v1" vertex3="stl_tessellated_f98_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f99_v0" vertex2="stl_tessellated_f99_v1" vertex3="stl_tessellated_f99_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f100_v0" vertex2="stl_tessellated_f100_v1" vertex3="stl_tessellated_f100_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f101_v0" vertex2="stl_tessellated_f101_v1" vertex3="stl_tessellated_f101_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f102_v0" vertex2="stl_tessellated_f102_v1" vertex3="stl_tessellated_f102_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f103_v0" vertex2="stl_tessellated_f103_v1" vertex3="stl_tessellated_f103_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f104_v0" vertex2="stl_tessellated_f104_v1" vertex3="stl_tessellated_f104_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f105_v0" vertex2="stl_tessellated_f105_v1" vertex3="stl_tessellated_f105_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f106_v0" vertex2="stl_tessellated_f106_v1" vertex3="stl_tessellated_f106_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f107_v0" vertex2="stl_tessellated_f107_v1" vertex3="stl_tessellated_f107_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f108_v0" vertex2="stl_tessellated_f108_v1" vertex3="stl_tessellated_f108_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f109_v0" vertex2="stl_tessellated_f109_v1" vertex3="stl_tessellated_f109_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f110_v0" vertex2="stl_tessellated_f110_v1" vertex3="stl_tessellated_f110_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f111_v0" vertex2="stl_tessellated_f111_v1" vertex3="stl_tessellated_f111_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f112_v0" vertex2="stl_tessellated_f112_v1" vertex3="stl_tessellated_f112_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f113_v0" vertex2="stl_tessellated_f113_v1" vertex3="stl_tessellated_f113_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f114_v0" vertex2="stl_tessellated_f114_v1" vertex3="stl_tessellated_f114_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f115_v0" vertex2="stl_tessellated_f115_v1" vertex3="stl_tessellated_f115_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f116_v0" vertex2="stl_tessellated_f116_v1" vertex3="stl_tessellated_f116_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f117_v0" vertex2="stl_tessellated_f117_v1" vertex3="stl_tessellated_f117_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f118_v0" vertex2="stl_tessellated_f118_v1" vertex3="stl_tessellated_f118_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f119_v0" vertex2="stl_tessellated_f119_v1" vertex3="stl_tessellated_f119_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f120_v0" vertex2="stl_tessellated_f120_v1" vertex3="stl_tessellated_f120_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f121_v0" vertex2="stl_tessellated_f121_v1" vertex3="stl_tessellated_f121_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f122_v0" vertex2="stl_tessellated_f122_v1" vertex3="stl_tessellated_f122_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f123_v0" vertex2="stl_tessellated_f123_v1" vertex3="stl_tessellated_f123_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f124_v0" vertex2="stl_tessellated_f124_v1" vertex3="stl_tessellated_f124_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f125_v0" vertex2="stl_tessellated_f125_v1" vertex3="stl_tessellated_f125_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f126_v0" vertex2="stl_tessellated_f126_v1" vertex3="stl_tessellated_f126_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f127_v0" vertex2="stl_tessellated_f127_v1" vertex3="stl_tessellated_f127_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f128_v0" vertex2="stl_tessellated_f128_v1" vertex3="stl_tessellated_f128_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f129_v0" vertex2="stl_tessellated_f129_v1" vertex3="stl_tessellated_f129_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f130_v0" vertex2="stl_tessellated_f130_v1" vertex3="stl_tessellated_f130_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f131_v0" vertex2="stl_tessellated_f131_v1" vertex3="stl_tessellated_f131_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f132_v0" vertex2="stl_tessellated_f132_v1" vertex3="stl_tessellated_f132_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f133_v0" vertex2="stl_tessellated_f133_v1" vertex3="stl_tessellated_f133_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f134_v0" vertex2="stl_tessellated_f134_v1" vertex3="stl_tessellated_f134_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f135_v0" vertex2="stl_tessellated_f135_v1" vertex3="stl_tessellated_f135_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f136_v0" vertex2="stl_tessellated_f136_v1" vertex3="stl_tessellated_f136_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f137_v0" vertex2="stl_tessellated_f137_v1" vertex3="stl_tessellated_f137_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f138_v0" vertex2="stl_tessellated_f138_v1" vertex3="stl_tessellated_f138_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f139_v0" vertex2="stl_tessellated_f139_v1" vertex3="stl_tessellated_f139_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f140_v0" vertex2="stl_tessellated_f140_v1" vertex3="stl_tessellated_f140_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f141_v0" vertex2="stl_tessellated_f141_v1" vertex3="stl_tessellated_f141_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f142_v0" vertex2="stl_tessellated_f142_v1" vertex3="stl_tessellated_f142_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f143_v0" vertex2="stl_tessellated_f143_v1" vertex3="stl_tessellated_f143_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f144_v0" vertex2="stl_tessellated_f144_v1" vertex3="stl_tessellated_f144_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f145_v0" vertex2="stl_tessellated_f145_v1" vertex3="stl_tessellated_f145_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f146_v0" vertex2="stl_tessellated_f146_v1" vertex3="stl_tessellated_f146_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f147_v0" vertex2="stl_tessellated_f147_v1" vertex3="stl_tessellated_f147_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f148_v0" vertex2="stl_tessellated_f148_v1" vertex3="stl_tessellated_f148_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f149_v0" vertex2="stl_tessellated_f149_v1" vertex3="stl_tessellated_f149_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f150_v0" vertex2="stl_tessellated_f150_v1" vertex3="stl_tessellated_f150_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f151_v0" vertex2="stl_tessellated_f151_v1" vertex3="stl_tessellated_f151_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f152_v0" vertex2="stl_tessellated_f152_v1" vertex3="stl_tessellated_f152_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f153_v0" vertex2="stl_tessellated_f153_v1" vertex3="stl_tessellated_f153_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f154_v0" vertex2="stl_tessellated_f154_v1" vertex3="stl_tessellated_f154_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f155_v0" vertex2="stl_tessellated_f155_v1" vertex3="stl_tessellated_f155_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f156_v0" vertex2="stl_tessellated_f156_v1" vertex3="stl_tessellated_f156_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f157_v0" vertex2="stl_tessellated_f157_v1" vertex3="stl_tessellated_f157_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f158_v0" vertex2="stl_tessellated_f158_v1" vertex3="stl_tessellated_f158_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f159_v0" vertex2="stl_tessellated_f159_v1" vertex3="stl_tessellated_f159_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f160_v0" vertex2="stl_tessellated_f160_v1" vertex3="stl_tessellated_f160_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f161_v0" vertex2="stl_tessellated_f161_v1" vertex3="stl_tessellated_f161_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f162_v0" vertex2="stl_tessellated_f162_v1" vertex3="stl_tessellated_f162_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f163_v0" vertex2="stl_tessellated_f163_v1" vertex3="stl_tessellated_f163_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f164_v0" vertex2="stl_tessellated_f164_v1" vertex3="stl_tessellated_f164_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f165_v0" vertex2="stl_tessellated_f165_v1" vertex3="stl_tessellated_f165_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f166_v0" vertex2="stl_tessellated_f166_v1" vertex3="stl_tessellated_f166_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f167_v0" vertex2="stl_tessellated_f167_v1" vertex3="stl_tessellated_f167_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f168_v0" vertex2="stl_tessellated_f168_v1" vertex3="stl_tessellated_f168_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f169_v0" vertex2="stl_tessellated_f169_v1" vertex3="stl_tessellated_f169_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f170_v0" vertex2="stl_tessellated_f170_v1" vertex3="stl_tessellated_f170_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f171_v0" vertex2="stl_tessellated_f171_v1" vertex3="stl_tessellated_f171_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f172_v0" vertex2="stl_tessellated_f172_v1" vertex3="stl_tessellated_f172_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f173_v0" vertex2="stl_tessellated_f173_v1" vertex3="stl_tessellated_f173_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f174_v0" vertex2="stl_tessellated_f174_v1" vertex3="stl_tessellated_f174_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f175_v0" vertex2="stl_tessellated_f175_v1" vertex3="stl_tessellated_f175_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f176_v0" vertex2="stl_tessellated_f176_v1" vertex3="stl_tessellated_f176_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f177_v0" vertex2="stl_tessellated_f177_v1" vertex3="stl_tessellated_f177_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f178_v0" vertex2="stl_tessellated_f178_v1" vertex3="stl_tessellated_f178_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f179_v0" vertex2="stl_tessellated_f179_v1" vertex3="stl_tessellated_f179_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f180_v0" vertex2="stl_tessellated_f180_v1" vertex3="stl_tessellated_f180_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f181_v0" vertex2="stl_tessellated_f181_v1" vertex3="stl_tessellated_f181_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f182_v0" vertex2="stl_tessellated_f182_v1" vertex3="stl_tessellated_f182_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f183_v0" vertex2="stl_tessellated_f183_v1" vertex3="stl_tessellated_f183_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f184_v0" vertex2="stl_tessellated_f184_v1" vertex3="stl_tessellated_f184_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f185_v0" vertex2="stl_tessellated_f185_v1" vertex3="stl_tessellated_f185_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f186_v0" vertex2="stl_tessellated_f186_v1" vertex3="stl_tessellated_f186_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f187_v0" vertex2="stl_tessellated_f187_v1" vertex3="stl_tessellated_f187_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f188_v0" vertex2="stl_tessellated_f188_v1" vertex3="stl_tessellated_f188_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f189_v0" vertex2="stl_tessellated_f189_v1" vertex3="stl_tessellated_f189_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f190_v0" vertex2="stl_tessellated_f190_v1" vertex3="stl_tessellated_f190_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f191_v0" vertex2="stl_tessellated_f191_v1" vertex3="stl_tessellated_f191_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f192_v0" vertex2="stl_tessellated_f192_v1" vertex3="stl_tessellated_f192_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f193_v0" vertex2="stl_tessellated_f193_v1" vertex3="stl_tessellated_f193_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f194_v0" vertex2="stl_tessellated_f194_v1" vertex3="stl_tessellated_f194_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f195_v0" vertex2="stl_tessellated_f195_v1" vertex3="stl_tessellated_f195_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f196_v0" vertex2="stl_tessellated_f196_v1" vertex3="stl_tessellated_f196_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f197_v0" vertex2="stl_tessellated_f197_v1" vertex3="stl_tessellated_f197_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f198_v0" vertex2="stl_tessellated_f198_v1" vertex3="stl_tessellated_f198_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f199_v0" vertex2="stl_tessellated_f199_v1" vertex3="stl_tessellated_f199_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f200_v0" vertex2="stl_tessellated_f200_v1" vertex3="stl_tessellated_f200_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f201_v0" vertex2="stl_tessellated_f201_v1" vertex3="stl_tessellated_f201_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f202_v0" vertex2="stl_tessellated_f202_v1" vertex3="stl_tessellated_f202_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f203_v0" vertex2="stl_tessellated_f203_v1" vertex3="stl_tessellated_f203_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f204_v0" vertex2="stl_tessellated_f204_v1" vertex3="stl_tessellated_f204_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f205_v0" vertex2="stl_tessellated_f205_v1" vertex3="stl_tessellated_f205_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f206_v0" vertex2="stl_tessellated_f206_v1" vertex3="stl_tessellated_f206_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f207_v0" vertex2="stl_tessellated_f207_v1" vertex3="stl_tessellated_f207_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f208_v0" vertex2="stl_tessellated_f208_v1" vertex3="stl_tessellated_f208_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f209_v0" vertex2="stl_tessellated_f209_v1" vertex3="stl_tessellated_f209_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f210_v0" vertex2="stl_tessellated_f210_v1" vertex3="stl_tessellated_f210_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f211_v0" vertex2="stl_tessellated_f211_v1" vertex3="stl_tessellated_f211_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f212_v0" vertex2="stl_tessellated_f212_v1" vertex3="stl_tessellated_f212_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f213_v0" vertex2="stl_tessellated_f213_v1" vertex3="stl_tessellated_f213_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f214_v0" vertex2="stl_tessellated_f214_v1" vertex3="stl_tessellated_f214_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f215_v0" vertex2="stl_tessellated_f215_v1" vertex3="stl_tessellated_f215_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f216_v0" vertex2="stl_tessellated_f216_v1" vertex3="stl_tessellated_f216_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f217_v0" vertex2="stl_tessellated_f217_v1" vertex3="stl_tessellated_f217_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f218_v0" vertex2="stl_tessellated_f218_v1" vertex3="stl_tessellated_f218_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f219_v0" vertex2="stl_tessellated_f219_v1" vertex3="stl_tessellated_f219_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f220_v0" vertex2="stl_tessellated_f220_v1" vertex3="stl_tessellated_f220_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f221_v0" vertex2="stl_tessellated_f221_v1" vertex3="stl_tessellated_f221_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f222_v0" vertex2="stl_tessellated_f222_v1" vertex3="stl_tessellated_f222_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f223_v0" vertex2="stl_tessellated_f223_v1" vertex3="stl_tessellated_f223_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f224_v0" vertex2="stl_tessellated_f224_v1" vertex3="stl_tessellated_f224_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f225_v0" vertex2="stl_tessellated_f225_v1" vertex3="stl_tessellated_f225_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f226_v0" vertex2="stl_tessellated_f226_v1" vertex3="stl_tessellated_f226_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f227_v0" vertex2="stl_tessellated_f227_v1" vertex3="stl_tessellated_f227_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f228_v0" vertex2="stl_tessellated_f228_v1" vertex3="stl_tessellated_f228_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f229_v0" vertex2="stl_tessellated_f229_v1" vertex3="stl_tessellated_f229_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f230_v0" vertex2="stl_tessellated_f230_v1" vertex3="stl_tessellated_f230_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f231_v0" vertex2="stl_tessellated_f231_v1" vertex3="stl_tessellated_f231_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f232_v0" vertex2="stl_tessellated_f232_v1" vertex3="stl_tessellated_f232_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f233_v0" vertex2="stl_tessellated_f233_v1" vertex3="stl_tessellated_f233_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f234_v0" vertex2="stl_tessellated_f234_v1" vertex3="stl_tessellated_f234_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f235_v0" vertex2="stl_tessellated_f235_v1" vertex3="stl_tessellated_f235_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f236_v0" vertex2="stl_tessellated_f236_v1" vertex3="stl_tessellated_f236_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f237_v0" vertex2="stl_tessellated_f237_v1" vertex3="stl_tessellated_f237_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f238_v0" vertex2="stl_tessellated_f238_v1" vertex3="stl_tessellated_f238_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f239_v0" vertex2="stl_tessellated_f239_v1" vertex3="stl_tessellated_f239_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f240_v0" vertex2="stl_tessellated_f240_v1" vertex3="stl_tessellated_f240_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f241_v0" vertex2="stl_tessellated_f241_v1" vertex3="stl_tessellated_f241_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f242_v0" vertex2="stl_tessellated_f242_v1" vertex3="stl_tessellated_f242_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f243_v0" vertex2="stl_tessellated_f243_v1" vertex3="stl_tessellated_f243_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f244_v0" vertex2="stl_tessellated_f244_v1" vertex3="stl_tessellated_f244_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f245_v0" vertex2="stl_tessellated_f245_v1" vertex3="stl_tessellated_f245_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f246_v0" vertex2="stl_tessellated_f246_v1" vertex3="stl_tessellated_f246_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f247_v0" vertex2="stl_tessellated_f247_v1" vertex3="stl_tessellated_f247_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f248_v0" vertex2="stl_tessellated_f248_v1" vertex3="stl_tessellated_f248_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f249_v0" vertex2="stl_tessellated_f249_v1" vertex3="stl_tessellated_f249_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f250_v0" vertex2="stl_tessellated_f250_v1" vertex3="stl_tessellated_f250_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f251_v0" vertex2="stl_tessellated_f251_v1" vertex3="stl_tessellated_f251_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f252_v0" vertex2="stl_tessellated_f252_v1" vertex3="stl_tessellated_f252_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f253_v0" vertex2="stl_tessellated_f253_v1" vertex3="stl_tessellated_f253_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f254_v0" vertex2="stl_tessellated_f254_v1" vertex3="stl_tessellated_f254_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f255_v0" vertex2="stl_tessellated_f255_v1" vertex3="stl_tessellated_f255_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f256_v0" vertex2="stl_tessellated_f256_v1" vertex3="stl_tessellated_f256_v2" type="ABSOLUTE" />
+			<triangular vertex1="stl_tessellated_f257_v0" vertex2="stl_tessellated_f257_v1" vertex3="stl_tessellated_f257_v2" type="ABSOLUTE" />
+		</tessellated>
+		<box name="worldSolid" x="15.799999237060547" y="7.799999237060547" z="7.799999237060547" lunit="mm" materialref="G4_Cu" />
+	</solids>
+	<structure>
+		<volume name="stl_tessellated_pv">
+			<materialref ref="G4_Cu" />
+			<solidref ref="stl_tessellated" />
+		</volume>
+		<volume name="wl">
+			<materialref ref="G4_Cu" />
+			<solidref ref="worldSolid" />
+			<physvol name="stl_tessellated_pv_pv1">
+				<volumeref ref="stl_tessellated_pv" />
+			</physvol>
+		</volume>
+	</structure>
+	<setup name="Default" version="1.0">
+		<world ref="wl" />
+	</setup>
+</gdml>

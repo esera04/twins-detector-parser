@@ -1,0 +1,26 @@
+Low Energy Electromagnetic models data files
+============================================
+
+    *********************************************************************
+    * DATA ARE *NOT* FOR COMMERCIAL USE AND MUST BE USED WITHIN GEANT4  *
+    *********************************************************************
+
+========================================================================= 
+
+Directory Description
+=====================
+
+*** Geant4-DNA processes ***
+
+If you use the Geant4-DNA extension, please cite the following reference papers:
+
+- Geant4-DNA example applications for track structure simulations in liquid water: a report from the Geant4-DNA Project, S. Incerti, I. Kyriakou, M. A. Bernal, M. C. Bordage, Z. Francis, S. Guatelli, V. Ivanchenko, M. Karamitros, N. Lampe, S. B. Lee, S. Meylan, C. H. Min, W. G. Shin, P. Nieminen, D. Sakata, N. Tang, C. Villagrasa, H. Tran, J. M. C. Brown, Med. Phys. 45 (2018) e722-e739
+
+- Track structure modeling in liquid water: A review of the Geant4-DNA very low energy extension of the Geant4 Monte Carlo simulation toolkit, M. A. Bernal, M. C. Bordage, J. M. C. Brown, M. Davídková, E. Delage, Z. El Bitar, S. A. Enger, Z. Francis, S. Guatelli, V. N. Ivanchenko, M. Karamitros, I. Kyriakou, L. Maigne, S. Meylan, K. Murakami, S. Okada, H. Payno, Y. Perrot, I. Petrovic, Q.T. Pham, A. Ristic-Fira, T. Sasaki, V. Štěpán, H. N. Tran, C. Villagrasa, S. Incerti, Phys. Med. 31 (2015) 861-874 (link)
+
+- Comparison of Geant4 very low energy cross section models with experimental data in water, S. Incerti, A. Ivanchenko, M. Karamitros, A. Mantero, P. Moretto, H. N. Tran, B. Mascialino, C. Champion, V. N. Ivanchenko, M. A. Bernal, Z. Francis, C. Villagrasa, G. Baldacchino, P. Guèye, R. Capra, P. Nieminen, C. Zacharatou, Med. Phys. 37 (2010) 4692-4708 (link)
+
+- The Geant4-DNA project, S. Incerti, G. Baldacchino, M. Bernal, R. Capra, C. Champion, Z. Francis, S. Guatelli, P. Guèye, A. Mantero, B. Mascialino, P. Moretto, P. Nieminen, A. Rosenfeld, C. Villagrasa and C. Zacharatou, Int. J. Model. Simul. Sci. Comput. 1 (2010) 157–178
+
+Please refer to http://geant4-dna.org for more details about data and associated publications.
+
