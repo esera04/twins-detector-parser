@@ -7,18 +7,35 @@
 #include "G4PhysicalVolumeStore.hh"
 #include "G4LogicalVolumeStore.hh"
 #include "G4SolidStore.hh"
+#include "G4VUserPhysicsList.hh"
+#include "G4PhysListFactory.hh"
 #include "G4Box.hh"
 #include "G4Tubs.hh"
 #include "G4Material.hh"
 #include "G4NistManager.hh"
 #include "G4Element.hh"
 #include "G4SystemOfUnits.hh"
+#include "G4VUserDetectorConstruction.hh"
 
 #include <iostream>
 #include <map>
 #include <vector>
 #include <fstream>
 #include <string>
+
+class MyDetectorConstruction : public G4VUserDetectorConstruction {
+public:
+    MyDetectorConstruction() = default;
+    virtual ~MyDetectorConstruction() = default;
+
+    virtual G4VPhysicalVolume* Construct() override {
+        G4GDMLParser parser;
+        parser.Read("twins.gdml");  // Load the GDML file
+        G4VPhysicalVolume* worldVolume = parser.GetWorldVolume();
+        return worldVolume;  // Return the world volume defined in the GDML file
+    }
+};
+
 
 std::map<std::string, G4LogicalVolume*> ParseGDMLFile(const std::string& gdmlFilePath, G4GDMLParser& parser) {
     std::map<std::string, G4LogicalVolume*> volumes;
@@ -146,6 +163,30 @@ int main(int argc, char *argv[]) {
     parser.Write(outputFilename, lgv , true, "http://cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd");
     std::cout << "Combined GDML file saved as: " << outputFilename << std::endl;
 
+    G4RunManager* runManager = new G4RunManager();
+
+    runManager->SetUserInitialization(new MyDetectorConstruction());
+
+    G4PhysListFactory factory;
+    G4VModularPhysicsList* physicsList = factory.GetReferencePhysList("QGSP_BERT");
+    runManager->SetUserInitialization(physicsList);
+
+    runManager->Initialize();
+
+    // Visualization with Qt5
+    G4VisManager* visManager = new G4VisExecutive();
+    visManager->Initialize();
+
+    G4UImanager* UImanager = G4UImanager::GetUIpointer();
+    UImanager->ApplyCommand("/vis/open VRML2FILE");
+    UImanager->ApplyCommand("/vis/drawVolume");
+    UImanager->ApplyCommand("/vis/viewer/set/viewpointThetaPhi 90 180");
+    UImanager->ApplyCommand("/vis/viewer/set/style wireframe");
+    UImanager->ApplyCommand("/vis/viewer/set/autoRefresh true");
+    UImanager->ApplyCommand("/vis/viewer/flush");
+
+    delete visManager;
+    delete runManager;
 
     return 0;
 }

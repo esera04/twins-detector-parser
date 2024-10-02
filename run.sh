@@ -14,10 +14,11 @@ if cmake ..; then
              copper_core_right.gdml \
              copper_shielding.gdml \
              dewer_left.gdml \
-             dewer_right.gdml \
+             lead_lid.gdml \
              lead_box_lower.gdml \
              lead_box_upper.gdml \
-             lead_lid.gdml
+             dewer_right.gdml
+             
 else 
     echo 
     echo "build failed... exiting"
