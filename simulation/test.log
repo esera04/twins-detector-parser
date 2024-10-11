@@ -1,0 +1,266 @@
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindEXPAT.cmake:35 (find_package):
+  find_package considered the following paths for FindPkgConfig.cmake:
+
+    /home/esera/parser/geant4/lib/cmake/Geant4/Modules/FindPkgConfig.cmake
+
+  The file was found at
+
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindPkgConfig.cmake
+
+Call Stack (most recent call first):
+  /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package)
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:262 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package):
+  find_package considered the following paths for FindEXPAT.cmake:
+
+    /home/esera/parser/geant4/lib/cmake/Geant4/Modules/FindEXPAT.cmake
+
+  The file was found at
+
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindEXPAT.cmake
+
+Call Stack (most recent call first):
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:262 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package):
+  find_package considered the following paths for FindThreads.cmake:
+
+    /home/esera/parser/geant4/lib/cmake/Geant4/Modules/FindThreads.cmake
+
+  The file was found at
+
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake
+
+Call Stack (most recent call first):
+  /home/esera/parser/geant4/lib/cmake/Geant4/PTL/PTLConfig.cmake:56 (find_dependency)
+  /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package)
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:286 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package):
+    /home/esera/parser/geant4/lib/cmake/Geant4/PTL/PTLConfig.cmake
+
+Call Stack (most recent call first):
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:286 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindXercesC.cmake:96 (find_library):
+  find_library called with the following settings:
+
+    VAR: XercesC_LIBRARY_DEBUG
+    NAMES: "xerces-cd"
+           "xerces-c_3D"
+           "xerces-c_3_2D"
+    Documentation: Xerces-C++ libraries (debug)
+    Framework
+      Only Search Frameworks: 0
+      Search Frameworks Last: 0
+      Search Frameworks First: 0
+    AppBundle
+      Only Search AppBundle: 0
+      Search AppBundle Last: 0
+      Search AppBundle First: 0
+    CMAKE_FIND_USE_CMAKE_PATH: 1
+    CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: 1
+    CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: 1
+    CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: 1
+    CMAKE_FIND_USE_INSTALL_PREFIX: 1
+
+  find_library considered the following locations:
+
+    /home/esera/parser/geant4/bin/(lib)xerces-cd(\.so|\.a)
+    /home/esera/parser/geant4/bin/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/parser/geant4/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/.vscode-server/bin/e10f2369d0d9614a452462f2e01cdc4aa9486296/bin/remote-cli/(lib)xerces-cd(\.so|\.a)
+    /home/esera/.vscode-server/bin/e10f2369d0d9614a452462f2e01cdc4aa9486296/bin/remote-cli/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/.vscode-server/bin/e10f2369d0d9614a452462f2e01cdc4aa9486296/bin/remote-cli/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/.local/bin/(lib)xerces-cd(\.so|\.a)
+    /home/esera/.local/bin/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/.local/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/bin/(lib)xerces-cd(\.so|\.a)
+    /home/esera/bin/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/sbin/(lib)xerces-cd(\.so|\.a)
+    /usr/local/sbin/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/sbin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/bin/(lib)xerces-cd(\.so|\.a)
+    /usr/local/bin/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/sbin/(lib)xerces-cd(\.so|\.a)
+    /usr/sbin/(lib)xerces-c_3D(\.so|\.a)
+    /usr/sbin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/bin/(lib)xerces-cd(\.so|\.a)
+    /usr/bin/(lib)xerces-c_3D(\.so|\.a)
+    /usr/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /sbin/(lib)xerces-cd(\.so|\.a)
+    /sbin/(lib)xerces-c_3D(\.so|\.a)
+    /sbin/(lib)xerces-c_3_2D(\.so|\.a)
+    /bin/(lib)xerces-cd(\.so|\.a)
+    /bin/(lib)xerces-c_3D(\.so|\.a)
+    /bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/games/(lib)xerces-cd(\.so|\.a)
+    /usr/games/(lib)xerces-c_3D(\.so|\.a)
+    /usr/games/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/games/(lib)xerces-cd(\.so|\.a)
+    /usr/local/games/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/games/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/lib/wsl/lib/(lib)xerces-cd(\.so|\.a)
+    /usr/lib/wsl/lib/(lib)xerces-c_3D(\.so|\.a)
+    /usr/lib/wsl/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/windows/system32/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/windows/system32/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/windows/system32/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/windows/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/windows/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/windows/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/windows/System32/Wbem/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/windows/System32/Wbem/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/windows/System32/Wbem/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/windows/System32/WindowsPowerShell/v1.0/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/windows/System32/WindowsPowerShell/v1.0/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/windows/System32/WindowsPowerShell/v1.0/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/windows/System32/OpenSSH/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/windows/System32/OpenSSH/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/windows/System32/OpenSSH/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Program Files/Wolfram Research/WolframScript/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Program Files/Wolfram Research/WolframScript/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Program Files/Wolfram Research/WolframScript/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Program Files/HP/HP One Agent/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Program Files/HP/HP One Agent/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Program Files/HP/HP One Agent/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/Scripts/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/Scripts/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/Scripts/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Python/Python312/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Microsoft/WindowsApps/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Microsoft/WindowsApps/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Microsoft/WindowsApps/(lib)xerces-c_3_2D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Microsoft VS Code/bin/(lib)xerces-cd(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Microsoft VS Code/bin/(lib)xerces-c_3D(\.so|\.a)
+    /mnt/c/Users/esera/AppData/Local/Programs/Microsoft VS Code/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /snap/bin/(lib)xerces-cd(\.so|\.a)
+    /snap/bin/(lib)xerces-c_3D(\.so|\.a)
+    /snap/bin/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /usr/local/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/lib/(lib)xerces-cd(\.so|\.a)
+    /usr/local/lib/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/local/(lib)xerces-cd(\.so|\.a)
+    /usr/local/(lib)xerces-c_3D(\.so|\.a)
+    /usr/local/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /usr/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /usr/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/lib/(lib)xerces-cd(\.so|\.a)
+    /usr/lib/(lib)xerces-c_3D(\.so|\.a)
+    /usr/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/(lib)xerces-cd(\.so|\.a)
+    /usr/(lib)xerces-c_3D(\.so|\.a)
+    /usr/(lib)xerces-c_3_2D(\.so|\.a)
+    /lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /lib/(lib)xerces-cd(\.so|\.a)
+    /lib/(lib)xerces-c_3D(\.so|\.a)
+    /lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/(lib)xerces-cd(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/(lib)xerces-cd(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/(lib)xerces-c_3D(\.so|\.a)
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/X11R6/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /usr/X11R6/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /usr/X11R6/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/X11R6/lib/(lib)xerces-cd(\.so|\.a)
+    /usr/X11R6/lib/(lib)xerces-c_3D(\.so|\.a)
+    /usr/X11R6/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/X11R6/(lib)xerces-cd(\.so|\.a)
+    /usr/X11R6/(lib)xerces-c_3D(\.so|\.a)
+    /usr/X11R6/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/pkg/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /usr/pkg/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /usr/pkg/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/pkg/lib/(lib)xerces-cd(\.so|\.a)
+    /usr/pkg/lib/(lib)xerces-c_3D(\.so|\.a)
+    /usr/pkg/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/pkg/(lib)xerces-cd(\.so|\.a)
+    /usr/pkg/(lib)xerces-c_3D(\.so|\.a)
+    /usr/pkg/(lib)xerces-c_3_2D(\.so|\.a)
+    /opt/lib/x86_64-linux-gnu/(lib)xerces-cd(\.so|\.a)
+    /opt/lib/x86_64-linux-gnu/(lib)xerces-c_3D(\.so|\.a)
+    /opt/lib/x86_64-linux-gnu/(lib)xerces-c_3_2D(\.so|\.a)
+    /opt/lib/(lib)xerces-cd(\.so|\.a)
+    /opt/lib/(lib)xerces-c_3D(\.so|\.a)
+    /opt/lib/(lib)xerces-c_3_2D(\.so|\.a)
+    /opt/(lib)xerces-cd(\.so|\.a)
+    /opt/(lib)xerces-c_3D(\.so|\.a)
+    /opt/(lib)xerces-c_3_2D(\.so|\.a)
+    /usr/lib/X11/(lib)xerces-cd(\.so|\.a)
+    /usr/lib/X11/(lib)xerces-c_3D(\.so|\.a)
+    /usr/lib/X11/(lib)xerces-c_3_2D(\.so|\.a)
+
+  The item was not found.
+
+Call Stack (most recent call first):
+  /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package)
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:305 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake:76 (find_package):
+  find_package considered the following paths for FindXercesC.cmake:
+
+    /home/esera/parser/geant4/lib/cmake/Geant4/Modules/FindXercesC.cmake
+
+  The file was found at
+
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindXercesC.cmake
+
+Call Stack (most recent call first):
+  /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake:305 (find_dependency)
+  CMakeLists.txt:7 (find_package)
+
+
+CMake Debug Log at CMakeLists.txt:7 (find_package):
+  find_package considered the following paths for FindGeant4.cmake:
+
+    /home/esera/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.27/Modules/FindGeant4.cmake
+
+  The file was not found.
+
+    /home/esera/parser/geant4/lib/cmake/Geant4/Geant4Config.cmake
+
+
+
+/usr/bin/ld: CMakeFiles/test.dir/test.cpp.o: warning: relocation against `_ZTVN2B120ActionInitializationE' in read-only section `.text._ZN2B120ActionInitializationC2Ev[_ZN2B120ActionInitializationC5Ev]'
+/usr/bin/ld: CMakeFiles/test.dir/test.cpp.o: in function `B1::DetectorConstruction::DetectorConstruction()':
+/home/esera/parser/simulation/include/DetectorConstruction.hh:47: undefined reference to `vtable for B1::DetectorConstruction'
+/usr/bin/ld: CMakeFiles/test.dir/test.cpp.o: in function `B1::ActionInitialization::ActionInitialization()':
+/home/esera/parser/simulation/include/ActionInitialization.hh:43: undefined reference to `vtable for B1::ActionInitialization'
+/usr/bin/ld: warning: creating DT_TEXTREL in a PIE
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/test.dir/build.make:132: test] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/test.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+mv: cannot stat 'test': No such file or directory

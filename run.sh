@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-source geant4/bin/geant4.sh
+source /usr/local/bin/geant4.sh
 mkdir -p generated build
 cd build
 if cmake ..; then

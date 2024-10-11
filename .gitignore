@@ -39,3 +39,4 @@ generated/
 # output files
 parser
 twins.gdml
+CMakeFiles/
