@@ -40,6 +40,14 @@
 #include "G4PVPlacement.hh"
 #include "G4SystemOfUnits.hh"
 
+#include "G4GDMLParser.hh"
+#include "G4VisAttributes.hh"
+#include "G4Colour.hh"
+
+#include <map>
+#include <string>
+#include <iostream>
+
 namespace B1
 {
 
@@ -48,10 +56,14 @@ namespace B1
 G4VPhysicalVolume* DetectorConstruction::Construct()
 {
   G4GDMLParser parser;
+    parser.Read("../twins.gdml");
+    //parser.Read("/home/esera/parser/simulation/TPC.gdml");
 
-  parser.Read("../twins.gdml");
+    
 
-  return parser.GetWorldVolume();
+    return parser.GetWorldVolume();
+}
+
 
 
   // // Get nist material manager
